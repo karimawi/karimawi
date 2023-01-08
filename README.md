@@ -19,7 +19,7 @@
 <h4 align="left">Profile Visitors</h4>
 
 <p align="left">
-<img src="https://profile-counter.glitch.me/{karimawii}/count.svg" alt="Profile Visiors" />
+<img src="https://profile-counter.glitch.me/karimawi/count.svg" alt="Profile Visiors" />
 </p>
 </br>
 <p>
