@@ -4,7 +4,6 @@
 </br>
 
 <p>
-<dl><dd><dl><dd><dl><dd><dl><dd>
 <a href="https://spoti.fi/3Ac4ZGr"><img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&cover_image=true&theme=compact&show_offline=false&background_color=141439&bar_color=53b14f&bar_color_cover=true" alt="Karim's Spotify Now Playing" /></a>
 </p>
   <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Karim <img align="bottom" width="20" src="https://cdn.discordapp.com/attachments/710412959242911765/1061645299384324177/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
