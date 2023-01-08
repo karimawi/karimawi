@@ -6,7 +6,7 @@
 </br>
 
 <p>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&redirect=true"><img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&cover_image=true&theme=compact&show_offline=true&background_color=141439&bar_color=53b14f&bar_color_cover=true" alt="Karim's Spotify Now Playing" /></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&redirect=true"><img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&cover_image=true&theme=compact&show_offline=false&background_color=141439&bar_color=53b14f&bar_color_cover=true" alt="Karim's Spotify Now Playing" /></a>
 </p>
   <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Karim <img align="bottom" width="20" src="https://github.com/karimawii/karimawii/raw/main/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
   <p>👨🏻‍💻 I'm a 19-year old Computer Science Collegian from Egypt <img src="https://discord.com/assets/a0634b212047f7fdf09bc113fde994fe.svg" alt="Egypt" width="20" align="center"></br></br>
