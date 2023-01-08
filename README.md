@@ -1,10 +1,12 @@
 <p align="center">
+  <a href="https://github.com/karimawii">
   <img src="https://media.discordapp.net/attachments/710412959242911765/778093052903424050/An2.gif" alt="Karim's GitHub Profile" width="200">
+  </a>
 </p>
 </br>
 
 <p>
-<a href="https://spoti.fi/3Ac4ZGr"><img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&cover_image=true&theme=compact&show_offline=false&background_color=141439&bar_color=53b14f&bar_color_cover=true" alt="Karim's Spotify Now Playing" /></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&redirect=true"><img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&cover_image=true&theme=compact&show_offline=false&background_color=141439&bar_color=53b14f&bar_color_cover=true" alt="Karim's Spotify Now Playing" /></a>
 </p>
   <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Karim <img align="bottom" width="20" src="https://cdn.discordapp.com/attachments/710412959242911765/1061645299384324177/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
   <p>👨🏻‍💻 I'm a 19-year old Computer Science Collegian from Egypt <img src="https://discord.com/assets/a0634b212047f7fdf09bc113fde994fe.svg" alt="Egypt" width="20" align="center"></br></br>
@@ -21,6 +23,19 @@
 </p>
 </br>
 <p>
-<img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=karimawii&show_icons=true&hide_border=true&theme=outrun" alt="GitHub Stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=karimawii&repo=Guava&theme=outrun" alt="Guava" />
+<a href="https://github.com/karimawii#:~:text=Contribution%20activity"><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=karimawii&show_icons=true&hide_border=true&theme=outrun" alt="GitHub Stats" /></a>
+<a href="https://github.com/karimawii/Guava"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=karimawii&repo=Guava&theme=outrun" alt="Guava" /></a>
 </p>
+</br></br></br></br></br></br></br></br>
+<div align="center" style="margin-top:25px;">
+	<a href="https://discord.com/users/609230785769111554">
+		<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://open.spotify.com/playlist/3zYrqCWHw3Iy8pUknbOP1H?si=25b8d932709e4801">
+		<img src="https://img.shields.io/badge/Spotify%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="margin-bottom: 5px;" />
+	</a>
+	<a href="https://twitter.com/karimawii">
+		<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
+	</a>
+</div>
+</br>
