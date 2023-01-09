@@ -16,11 +16,6 @@
   🎶 I'm also addicted to music.</br></br>
 </p>
 
-<h4 align="left">Profile Visitors</h4>
-
-<p align="left">
-<img src="https://profile-counter.glitch.me/karimawi/count.svg" alt="Profile Visiors" />
-</p>
 </br>
 <p>
 <a href="https://github.com/karimawii#:~:text=Contribution%20activity"><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=karimawii&show_icons=true&hide_border=true&theme=outrun" alt="GitHub Stats" /></a>
