@@ -18,8 +18,8 @@
 
 </br>
 <p>
-<a href="https://github.com/karimawii#:~:text=Contribution%20activity"><img align="left" width="390" src="https://github-readme-stats.vercel.app/api?username=karimawii&show_icons=true&hide_border=true&theme=outrun" alt="GitHub Stats" /></a>
-<a href="https://github.com/karimawii/Guava"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=karimawii&repo=Guava&theme=outrun" alt="Guava" /></a>
+<a href="https://github.com/karimawii#:~:text=Contribution%20activity"><img align="left" width="390" src="https://karimawi.vercel.app//api?username=karimawii&show_icons=true&hide_border=true&theme=outrun" alt="GitHub Stats" /></a>
+<a href="https://github.com/karimawii/Guava"><img align="right" src="https://karimawi.vercel.app/api/pin/?username=karimawii&repo=Guava&theme=outrun" alt="Guava" /></a>
 </p>
 </br></br></br></br></br></br></br></br>
 <div align="center" style="margin-top:25px;">
