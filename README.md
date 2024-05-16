@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/karimawii">
-  <img src="https://github.com/karimawii/karimawii/raw/main/karim.gif" alt="Karim's GitHub Profile" width="200">
+  <a href="https://github.com/karimawi">
+  <img src="https://github.com/karimawi/karimawi/raw/main/karim.gif" alt="Karim's GitHub Profile" width="200">
   </a>
 </p>
 </br>
@@ -18,8 +18,8 @@
 
 </br>
 <p>
-<a href="https://github.com/karimawii#:~:text=Contribution%20activity"><img align="left" width="390" src="https://karimawi.vercel.app//api?username=karimawi&show_icons=true&hide_border=true&theme=outrun" alt="GitHub Stats" /></a>
-<a href="https://github.com/karimawii/Guava"><img align="right" src="https://karimawi.vercel.app/api/pin/?username=karimawi&repo=Guava&theme=outrun" alt="Guava" /></a>
+<a href="https://github.com/karimawi#:~:text=Contribution%20activity"><img align="left" width="390" src="https://karimawi.vercel.app//api?username=karimawi&show_icons=true&hide_border=true&theme=outrun" alt="GitHub Stats" /></a>
+<a href="https://github.com/karimawi/Guava"><img align="right" src="https://karimawi.vercel.app/api/pin/?username=karimawi&repo=Guava&theme=outrun" alt="Guava" /></a>
 </p>
 </br></br></br></br></br></br></br></br>
 <div align="center" style="margin-top:25px;">
