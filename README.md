@@ -9,7 +9,7 @@
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&redirect=true"><img align="right" width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=31wn7dzvnx62dekrjbu2kqg3gtb4&cover_image=true&theme=compact&show_offline=false&background_color=141439&bar_color=53b14f&bar_color_cover=true" alt="Karim's Spotify Now Playing" /></a>
 </p>
   <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Karim <img align="bottom" width="20" src="https://github.com/karimawii/karimawii/raw/main/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
-  <p>👨🏻‍💻 I'm a 19-year old Computer Science Collegian from Egypt <img src="https://discord.com/assets/a0634b212047f7fdf09bc113fde994fe.svg" alt="Egypt" width="20" align="center"></br></br>
+  <p>👨🏻‍💻 I'm a 20-year old Computer Science Collegian from Egypt <img src="https://discord.com/assets/a0634b212047f7fdf09bc113fde994fe.svg" alt="Egypt" width="20" align="center"></br></br>
   ☄ My personality type is <a href="https://www.16personalities.com/infp-personality">INFP-T</a>.</br></br>
   🎨 I'm a Graphic and UI/UX designer.</br></br>
   🪀 I Code (obviously lmao), I play Piano and Guitar, I sing and draw.</br></br>
