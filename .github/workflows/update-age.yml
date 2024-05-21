@@ -1,0 +1,29 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 1 1 *'  # Runs at 00:00 on January 1st every year
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update age in README
+      run: |
+        current_year=$(date +%Y)
+        birth_year=2004
+        age=$((current_year - birth_year))
+        sed -i "s/I'm a [0-9]\+-year old/I'm a $age-year old/" README.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m "Update age in README"
+        git push
