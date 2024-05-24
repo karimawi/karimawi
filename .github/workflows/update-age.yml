@@ -13,13 +13,23 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'  # You can change the version if needed
+
     - name: Update age in README
       run: |
-        current_year=$(date +%Y)
-        birth_year=2004
-        age=$((current_year - birth_year))
-        sed -i "s/I'm a [0-9]\+-year old/I'm a $age-year old/" README.md
+        const fs = require('fs');
 
+        const currentYear = new Date().getFullYear();
+        const birthYear = 2004;
+        const age = currentYear - birthYear;
+
+        let readmeContent = fs.readFileSync('README.md', 'utf8');
+        readmeContent = readmeContent.replace(/I'm a [0-9]+-year old/, `I'm a ${age}-year old`);
+        fs.writeFileSync('README.md', readmeContent);
+        
     - name: Commit changes
       run: |
         git config --global user.name 'github-actions[bot]'
