@@ -1,39 +1,36 @@
 name: Update Age
-
 on:
   schedule:
-    - cron: '0 22 31 12 *'  # Runs at 22:00 UTC on December 31st (midnight UTC+2)
-  workflow_dispatch:
-
+    # This will run at 00:00 on 1st January every year in UTC+2
+    - cron: '0 22 31 12 *'
 jobs:
-  update-age:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
+    - uses: actions/checkout@v2
+    - name: Use Node.js 20
+      uses: actions/setup-node@v2
       with:
-        node-version: '20'  # You can change the version if needed
-
-    - name: Update age in README
+        node-version: '20'
+    - name: Update age
       run: |
         const fs = require('fs');
-
-        const currentYear = new Date().getFullYear();
-        const birthYear = 2004;
-        const age = currentYear - birthYear;
-
-        let readmeContent = fs.readFileSync('README.md', 'utf8');
-        readmeContent = readmeContent.replace(/I'm a [0-9]+-year old/, `I'm a ${age}-year old`);
-        fs.writeFileSync('README.md', readmeContent);
-        
-    - name: Commit changes
+        const path = './README.md';
+        const year = new Date().getFullYear();
+        const age = year - 2004;
+        fs.readFile(path, 'utf8', function (err, data) {
+          if (err) {
+            return console.log(err);
+          }
+          const result = data.replace(/👨🏻‍💻 I'm a \d{2}-year old/g, `👨🏻‍💻 I'm a ${age}-year old`);
+          fs.writeFile(path, result, 'utf8', function (err) {
+            if (err) return console.log(err);
+          });
+        });
+    - name: Commit and push if it changed
       run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git commit -m "Update age in README"
+        git diff
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Action"
+        git commit -am "Update age" || exit 0
         git push
