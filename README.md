@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/karimawi">
-  <img src="https://github.com/karimawi/karimawi/raw/main/karim.gif" alt="Karim's GitHub Profile" width="200">
+
+  <img src="./karim.gif" alt="Karim's GitHub Profile">
   </a>
 </p>
 </br>
