@@ -6,8 +6,8 @@
 </p>
 </br>
 
-<p align="center">
-	<a href="https://kspw.vercel.app/api?theme=dark&scan=true&redirect=true">
+<p width="auto" align="center">
+	<a width="auto" href="https://kspw.vercel.app/api?theme=dark&scan=true&redirect=true">
 		<img width="auto" src="https://kspw.vercel.app/api?theme=dark&scan=true" alt="Karim's Spotify Now Playing" />
 	</a>
 </p>
