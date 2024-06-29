@@ -7,7 +7,9 @@
 </br>
 
 <p align="center">
-	<img width="auto" src="https://kspw.vercel.app/api?theme=dark&scan=true" alt="Karim's Spotify Now Playing" />
+	<a href="https://kspw.vercel.app/api?theme=dark&scan=true&redirect=true">
+		<img width="auto" src="https://kspw.vercel.app/api?theme=dark&scan=true" alt="Karim's Spotify Now Playing" />
+	</a>
 </p>
   <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Karim <img align="bottom" width="20" src="https://github.com/karimawi/karimawi/raw/main/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
   <p>👨🏻‍💻 I'm a 20-year old Computer Science Collegian from Egypt <img src="https://discord.com/assets/a0634b212047f7fdf09bc113fde994fe.svg" alt="Egypt" width="20" align="center"></br></br>
