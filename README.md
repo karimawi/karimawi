@@ -23,7 +23,7 @@
 <p>
 <a href="https://github.com/karimawi#:~:text=Contribution%20activity"><img align="left" width="390" src="https://stats-widget.vercel.app/api?username=karimawi&show_icons=true&hide_border=true&theme=outrun&bg_color=0b002f&text_color=b3b3b3&title_color=f5be15&icon_color=f5be15&border_color=f5be15&border_radius=4" alt="GitHub Stats" /></a>
 	
-<a href="https://github.com/karimawi/Guava"><img align="right" src="https://stats-widget.vercel.app/api/pin/?username=karimawi&repo=Guava&theme=outrun&bg_color=0b002f&text_color=b3b3b3&title_color=f5be15&icon_color=f5be15&border_color=f5be15&border_radius=4" alt="Guava" /></a>
+<a href="https://github.com/karimawi/Guava"><img align="right" src="https://stats-widget.vercel.app/api/pin/?username=karimawi&repo=CatboxUploader&theme=outrun&bg_color=0b002f&text_color=b3b3b3&title_color=f5be15&icon_color=f5be15&border_color=f5be15&border_radius=4" alt="Guava" /></a>
 </p>
 </br></br></br></br></br></br></br></br>
 <div align="center" style="margin-top:25px;">
