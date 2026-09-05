@@ -33,8 +33,5 @@
 	<a href="https://open.spotify.com/playlist/3zYrqCWHw3Iy8pUknbOP1H?si=25b8d932709e4801">
 		<img src="https://img.shields.io/badge/Spotify%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" style="margin-bottom: 5px;" />
 	</a>
-	<a href="https://twitter.com/karimawii">
-		<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
-	</a>
 </div>
 </br>
