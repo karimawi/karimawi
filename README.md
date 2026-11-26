@@ -4,7 +4,7 @@
   <img src="./logo.svg" alt="Karim's GitHub Profile" width="250">
   </a>
 </p> -->
-<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Kareem <img align="bottom" width="20" src="https://github.com/karimawi/karimawi/raw/main/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
+<div id="user-content-toc"><h2 style="display: inline-block;"><b>My Name is Kareem <img align="bottom" width="20" src="https://github.com/karimawi/karimawi/raw/main/Hi.gif" alt="Hi!" /></b></h2></div>
   <p>👨🏻‍💻 I'm a 22-year old Computer Science Collegian from Egypt <img src="https://discord.com/assets/a0634b212047f7fdf09bc113fde994fe.svg" alt="Egypt" width="20" align="center"></br></br>
   ☄ My personality type is <a href="https://www.16personalities.com/infp-personality">INFP-T</a>.</br></br>
   🎨 I'm a Graphic and UI/UX designer.</br></br>
