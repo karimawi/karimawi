@@ -1,10 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://wkar.im">
 
   <img src="./logo.svg" alt="Karim's GitHub Profile" width="250">
   </a>
-</p>
-  <div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Kareem <img align="bottom" width="20" src="https://github.com/karimawi/karimawi/raw/main/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
+</p> -->
+<div id="user-content-toc"><ul><summary><h2 style="display: inline-block;"><b>My Name is Kareem <img align="bottom" width="20" src="https://github.com/karimawi/karimawi/raw/main/Hi.gif" alt="Hi!" /></b></h2></summary></ul></div>
   <p>👨🏻‍💻 I'm a 22-year old Computer Science Collegian from Egypt <img src="https://discord.com/assets/a0634b212047f7fdf09bc113fde994fe.svg" alt="Egypt" width="20" align="center"></br></br>
   ☄ My personality type is <a href="https://www.16personalities.com/infp-personality">INFP-T</a>.</br></br>
   🎨 I'm a Graphic and UI/UX designer.</br></br>
@@ -19,7 +19,7 @@
 <a href="https://github.com/karimawi/CatboxUploader"><img align="right" src="https://github-stats-extended.vercel.app/api/pin/?username=karimawi&repo=CatboxUploader&theme=outrun&bg_color=0b002f&text_color=b3b3b3&title_color=f5be15&icon_color=f5be15&border_color=f5be15&border_radius=4" alt="Guava" /></a>
 </div>
 </br></br></br></br></br></br></br></br>
-<div align="center" style="margin-top:25px;">
+<div align="center" style="margin-top:100px;">
 	<a href="https://discord.com/users/609230785769111554">
 		<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
 	</a>
